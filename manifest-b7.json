@@ -1,0 +1,10 @@
+{
+  "build": 7,
+  "date": "2026-10-25T16:29:22",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Photo mode: F freezes everything, H hides the HUD, F12 saves a screenshot to Pictures/Dead Rail.",
+  "pck": "dead-rail-b7.pck",
+  "sha256": "c8309ba3e449909a1f48caeaef5aeeb44a3106cbd6b90e68dc8e6d297ca23bbf",
+  "size": 133580
+}
