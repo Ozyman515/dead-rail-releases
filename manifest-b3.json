@@ -1,0 +1,10 @@
+{
+  "build": 3,
+  "date": "2026-10-25T08:05:44",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "On-screen gun that follows your aim. Crates (+50) and street lamps (+100) can be shot and broken.",
+  "pck": "dead-rail-b3.pck",
+  "sha256": "fe1e6568ad491fad761e0a8bf4d0f24cad1f45e9982e5b3899e051d76d62a71c",
+  "size": 70176
+}
