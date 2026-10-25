@@ -1,0 +1,10 @@
+{
+  "build": 8,
+  "date": "2026-10-25T17:51:07",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Build 8: new title song, Halloween Church Organ by AudioCoffee over gameplay, credits screen (C), reworked graveyard, more door spawns, boss phases, 10-round mag",
+  "pck": "dead-rail-b8.pck",
+  "sha256": "40a2acf7626ab897fd10afe4a004a0b12b5c8bee191e42860843c131326cc298",
+  "size": 5784136
+}
