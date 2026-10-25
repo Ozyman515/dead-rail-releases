@@ -1,0 +1,10 @@
+{
+  "build": 4,
+  "date": "2026-10-25T14:55:00",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Seven new zombie types (including the fast maid and the tough brute), headshot damage rework, the Chef boss fight, the detective, an opening scene and the chef's entrance cutscene.",
+  "pck": "dead-rail-b4.pck",
+  "sha256": "1921682a6525d914a5c0a83086445c90bd3f7f5b054e80f1a1eb27ae3ff0db46",
+  "size": 108228
+}
