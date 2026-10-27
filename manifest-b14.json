@@ -1,0 +1,10 @@
+{
+  "build": 14,
+  "date": "2026-10-27T20:23:49",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Graveyard rework: iron railings, dead trees, a big tree on the hill, rocks, grass and ivy. New padlock gate.",
+  "pck": "dead-rail-b14.pck",
+  "sha256": "dbe1004432591ad4614709e721e96a786c66fa0dfe0b291c5c65f3594ceb007d",
+  "size": 7657712
+}
