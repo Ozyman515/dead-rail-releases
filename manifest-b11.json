@@ -1,0 +1,10 @@
+{
+  "build": 11,
+  "date": "2026-10-27T00:55:35",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Build 11: Dimmers only cover lamps you can see and are easier to spot; alley fights start with zombies from a door on the near wall",
+  "pck": "dead-rail-b11.pck",
+  "sha256": "324cae79cafab15c3e923a283fccfc4ef4fd5eb82ad2849f530ad948965a6225",
+  "size": 5838764
+}
