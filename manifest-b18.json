@@ -1,0 +1,10 @@
+{
+  "build": 18,
+  "date": "2026-10-28T15:55:11",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Build 18: crates now pop their items out (shoot them to grab them), the flare only freezes zombies you can see, a new pistol, and a new look for the detective in the cutscenes.",
+  "pck": "dead-rail-b18.pck",
+  "sha256": "b8b4fa2c3664bd398c7948b5e7a1ac2dee57cdf49955d58e794da0ff58a8c86d",
+  "size": 13132252
+}
