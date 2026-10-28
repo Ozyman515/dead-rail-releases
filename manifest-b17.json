@@ -1,0 +1,10 @@
+{
+  "build": 17,
+  "date": "2026-10-28T02:21:01",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Zombie legs and feet fixed. 3 continues: lose your last life and shoot to carry on.",
+  "pck": "dead-rail-b17.pck",
+  "sha256": "f316ed4a1011c7de4a0074028ba0dfd551e14b1212b057f2fa72a1c9ca7eca4d",
+  "size": 12612928
+}
