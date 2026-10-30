@@ -1,0 +1,10 @@
+{
+  "build": 21,
+  "date": "2026-10-30T16:47:03",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Build 21: fixes - the camera no longer sinks into the graveyard hill; zombies only attack when they're on screen (no more hits from behind, including during the boss chase); nothing can hurt you after the boss falls. New: flashback 2, the gala (open the study safe in chapter 2).",
+  "pck": "dead-rail-b21.pck",
+  "sha256": "e17a61ac763000473ae55610d46ab4cef648b7e7150f432c9b68a1cb3b1c2d0a",
+  "size": 16230148
+}
