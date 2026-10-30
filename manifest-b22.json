@@ -1,0 +1,10 @@
+{
+  "build": 22,
+  "date": "2026-10-30T17:47:34",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Build 22: the M4 (gallery crate, full auto) and the sawed-off (wine cellar crate); Q or the mouse wheel swaps guns. New route in chapter 2: shoot the padlock on the library door in the foyer to go down through the library and the wine cellar.",
+  "pck": "dead-rail-b22.pck",
+  "sha256": "c2da9c4a318bb3b216f3b7476153d39574b5341548e603509aa4169efa8e0617",
+  "size": 16252692
+}
