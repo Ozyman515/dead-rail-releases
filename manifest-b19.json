@@ -1,0 +1,10 @@
+{
+  "build": 19,
+  "date": "2026-10-30T03:40:39",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Build 19: zombies go down faster (3 headshots, fast ones 2, big ones 4), an 8-round clip, shoot off arms and legs (they bite, or sit down and spit at you), oil drums you can set on fire, fixed zombie feet, and a free mouse cursor in menus and cutscenes.",
+  "pck": "dead-rail-b19.pck",
+  "sha256": "003b1026be04e8dd5e75b253d8cde65f6daa2456cb84c4d041fe6e902c2a99ba",
+  "size": 13316084
+}
