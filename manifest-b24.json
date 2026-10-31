@@ -1,0 +1,10 @@
+{
+  "build": 24,
+  "date": "2026-10-31T18:32:45",
+  "engine": "4.7",
+  "game": "dead-rail",
+  "notes": "Build 24: new main menu (Start, Stage Select, Settings, Quit); stage 1 now leads round the house into stage 2; fixed flickering walls and zombies walking through tables; a rounder Chef who folds his arms and smashes the kitchen island; a much bigger chandelier; Q switches guns again.",
+  "pck": "dead-rail-b24.pck",
+  "sha256": "49fa410f34bf2b19a7befcf2f98262be3d4b3b56fe0990aa04496ede9183af41",
+  "size": 16575144
+}
